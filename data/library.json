@@ -1,0 +1,63 @@
+{
+  "music": [
+    {
+      "title": "ZIGALI THE WILD MAN",
+      "file": "/library/music/ZIGALI%20THE%20WILD%20MAN.mp3",
+      "category": "Original"
+    },
+    {
+      "title": "POKA Birthday",
+      "file": "/library/music/POKA%20Birthday.mp3",
+      "category": "Original"
+    },
+    {
+      "title": "Nathan Unleashed",
+      "file": "/library/music/Nathan%20Unleashed.mp3",
+      "category": "Original"
+    },
+    {
+      "title": "Mmaa Pɛ",
+      "file": "/library/music/Mmaa%20P%C9%9B.mp3",
+      "category": "Original"
+    }
+  ],
+  "arts": [
+    {
+      "title": "Golden Vision",
+      "file": "/library/arts/tinubu%20art.png",
+      "artist": "Sir Jeffrey"
+    },
+    {
+      "title": "Cosmic Origin",
+      "file": "/library/arts/natcosmicart.png",
+      "artist": "El-Nathan Apolola"
+    },
+    {
+      "title": "Golden Friendship",
+      "file": "/library/arts/lucid-origin_Two_beautiful_teenage_girl_best_friends_standing_beneath_a_magnificent_golden_tr-0.jpg",
+      "artist": "Mildred Danso"
+    },
+    {
+      "title": "Radiant Grace",
+      "file": "/library/arts/lucid-origin_Jesus_Christ_dressed_in_a_radiant_white_robe_with_elegant_golden_embroidery_seat-0.jpg",
+      "artist": "Jason Ahiable"
+    }
+  ],
+  "games": [
+    {
+      "title": "Quiz",
+      "description": "Put your knowledge to the test.",
+      "url": "https://scratch.mit.edu/projects/1364164402/"
+    },
+    {
+      "title": "Catch the Apple",
+      "description": "Quick reflexes win the day.",
+      "url": "https://scratch.mit.edu/projects/1364271223/"
+    },
+    {
+      "title": "Maze",
+      "description": "Find your way through the maze.",
+      "url": "https://scratch.mit.edu/projects/1364302442/"
+    }
+  ]
+}
