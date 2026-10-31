@@ -2,6 +2,15 @@
   "name": "candlelight-it-web",
   "version": "1.0.0",
   "private": true,
-  "scripts": { "dev": "node ./node_modules/next/dist/bin/next dev", "build": "node ./node_modules/next/dist/bin/next build", "start": "node ./node_modules/next/dist/bin/next start" },
-  "dependencies": { "music-metadata": "11.8.0", "next": "15.2.4", "react": "19.0.0", "react-dom": "19.0.0" }
+  "scripts": {
+    "dev": "node ./node_modules/next/dist/bin/next dev",
+    "build": "node ./node_modules/next/dist/bin/next build",
+    "start": "node ./node_modules/next/dist/bin/next start"
+  },
+  "dependencies": {
+    "music-metadata": "11.8.0",
+    "next": "^15.5.28",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
 }
